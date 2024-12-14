@@ -8,8 +8,8 @@ import logging
 import os
 import glob
 import socket
-from argparse import ArgumentParser
 
+from argparse import ArgumentParser
 from collections import defaultdict
 
 import matplotlib.pyplot as plt
